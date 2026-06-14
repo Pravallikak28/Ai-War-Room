@@ -1,0 +1,6 @@
+{
+  "name": "AI War Room",
+  "description": "AI-powered incident response platform that analyzes logs, screenshots, chats, and deployments to identify root causes and coordinate response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
